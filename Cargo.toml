@@ -1,0 +1,9 @@
+[package]
+name = "v4l2-sys"
+version = "0.1.0"
+authors = ["Andrew Chin <achin@eminence32.net>"]
+
+[dependencies]
+
+[build-dependencies]
+bindgen = "0.32"
